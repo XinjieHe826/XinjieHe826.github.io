@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Website 
 
+My name is Xinjie He. I am a rising senior studying maths and CS at Carnegie Mellon University. I am broadly interested in applied mathematics, theoreticla computer sciences, and quantum computing :) 
 You can use the [editor on GitHub](https://github.com/XinjieHe826/XinjieHe826.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
